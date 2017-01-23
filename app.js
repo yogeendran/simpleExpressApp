@@ -1,7 +1,7 @@
 var express= require('express');
 var app=express();
 var one=require('./one.js');
-var three=require('./one.js');
+var three=require('./three.js');
 var port=8000;
 var bodyParser = require('body-parser');
 
